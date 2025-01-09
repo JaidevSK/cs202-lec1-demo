@@ -1,8 +1,11 @@
-
-A=10
+a=10
 B=3
-C=A+B
+C=a+B
+
+
+
+
 if C==13:
-    print("answer is 12")
+    print("answer is 15")
 else:
     print("wrong answer")
